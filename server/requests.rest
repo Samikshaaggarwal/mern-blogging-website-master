@@ -1,0 +1,18 @@
+# POST http://localhost:3000/user-written-blogs
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZTA4MjNhODBhYWQ1NThlNmEwMzNmMiIsImlhdCI6MTczMTI0MjQ5MH0.Nif3g-Gs3QE8jQFjuw7rBIXtLYjqAUf03SJ7ADTrQy8
+# Content-Type: application/json
+
+# {
+#     "page" : 1,
+#     "draft" : true
+# }
+
+POST http://localhost:3000/signin
+Content-Type: application/json
+# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2ZTA4MjNhODBhYWQ1NThlNmEwMzNmMiIsImlhdCI6MTczMTI0MjQ5MH0.Nif3g-Gs3QE8jQFjuw7rBIXtLYjqAUf03SJ7ADTrQy8
+
+
+{
+    "email":"sam@gmail.com",
+    "password":"Sa12345"
+}
