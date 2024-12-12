@@ -16,3 +16,6 @@ This website features include -
 13. Also user can change login password from settings.
 14. Its mobile responsive with modern design + fade in animation on pages.
 And much more.
+
+
+link for ppt and report https://drive.google.com/drive/folders/1uTggX3p_OUns5q58h5VGYcd7vBldNtu-?usp=sharing
